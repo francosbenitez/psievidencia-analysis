@@ -1,6 +1,6 @@
 # Psievidencia Analysis
 
-- The data analyis for [psievidencia.com](https://github.com/francosbenitez/psievidencia-frontend).
+- The data analysis for [psievidencia.com](https://github.com/francosbenitez/psievidencia-frontend).
 
 ## Code and Resources Used
 
