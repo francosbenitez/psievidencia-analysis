@@ -1,1 +1,2 @@
 - Carry out an exploratory data analysis.
+  - Clean up the script (create functions to avoid repetitive code).
