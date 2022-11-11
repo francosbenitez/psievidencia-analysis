@@ -1,4 +1,4 @@
-# Psievidencia Analysis
+# psievidencia-analysis
 
 - The data analysis for [psievidencia.com](https://github.com/francosbenitez/psievidencia-frontend).
 
@@ -8,5 +8,5 @@
 
 ## Live Demo
 
-- <a href="https://github.com/francosbenitez/psievidencia-analysis/blob/main/analysis/script.ipynb" target="_blank">Link</a>
+- Branch <a href="https://github.com/francosbenitez/psievidencia-analysis/blob/main/analysis/script.ipynb" target="_blank">main</a>
 
